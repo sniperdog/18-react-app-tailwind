@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <p>React 17.0.2 using Tailwind 2.1.0 + Craco</p>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
